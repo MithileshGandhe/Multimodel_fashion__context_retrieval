@@ -73,6 +73,8 @@ class FashionRetriever:
         inputs = {k: v.to(self.device) for k, v in inputs.items()}
 
         text_emb = self.siglip_model.get_text_features(**inputs)      # (1, D)
+        if not isinstance(text_emb, torch.Tensor):
+            text_emb = text_emb.pooler_output
         text_emb = text_emb / text_emb.norm(dim=-1, keepdim=True)
 
         sims = (self.embeddings @ text_emb.T).squeeze(-1)             # (N,)

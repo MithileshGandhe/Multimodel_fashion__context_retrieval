@@ -3,6 +3,5 @@
 
 venv
 test
-eval_results
 
 __pycache__

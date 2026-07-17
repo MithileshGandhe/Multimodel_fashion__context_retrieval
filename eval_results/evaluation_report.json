@@ -1,0 +1,202 @@
+{
+  "query_1": {
+    "query": "A person wearing a red floral dress standing in a sunny garden",
+    "results": [
+      {
+        "rank": 1,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\ef7f1909769844d3f6d43188fc9eec9a.jpg",
+        "filename": "ef7f1909769844d3f6d43188fc9eec9a.jpg",
+        "recall_score": 0.0451,
+        "itm_score": 0.9463
+      },
+      {
+        "rank": 2,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\91432b8abf420c3389036c1a4911cbd0.jpg",
+        "filename": "91432b8abf420c3389036c1a4911cbd0.jpg",
+        "recall_score": 0.0412,
+        "itm_score": 0.0001
+      },
+      {
+        "rank": 3,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\165fc69c577be6c18128e057487cf489.jpg",
+        "filename": "165fc69c577be6c18128e057487cf489.jpg",
+        "recall_score": 0.0313,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 4,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\5441093dfe37087e7466ac987706de9b.jpg",
+        "filename": "5441093dfe37087e7466ac987706de9b.jpg",
+        "recall_score": 0.0277,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 5,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\cfc959561412f65791291a7cf5048c15.jpg",
+        "filename": "cfc959561412f65791291a7cf5048c15.jpg",
+        "recall_score": 0.0427,
+        "itm_score": 0.0
+      }
+    ]
+  },
+  "query_2": {
+    "query": "A man in a navy blue suit with a striped tie at a formal event",
+    "results": [
+      {
+        "rank": 1,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\84c0f83f07beb9cdbbfbfa19cc5dbab8.jpg",
+        "filename": "84c0f83f07beb9cdbbfbfa19cc5dbab8.jpg",
+        "recall_score": 0.0196,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 2,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\0bbaa62211cc48b57957aab152fba023.jpg",
+        "filename": "0bbaa62211cc48b57957aab152fba023.jpg",
+        "recall_score": 0.0261,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 3,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\ef7f1909769844d3f6d43188fc9eec9a.jpg",
+        "filename": "ef7f1909769844d3f6d43188fc9eec9a.jpg",
+        "recall_score": 0.0181,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 4,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\5025cd4f17e567835ec22310a9579dc9.jpg",
+        "filename": "5025cd4f17e567835ec22310a9579dc9.jpg",
+        "recall_score": 0.0269,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 5,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\5441093dfe37087e7466ac987706de9b.jpg",
+        "filename": "5441093dfe37087e7466ac987706de9b.jpg",
+        "recall_score": 0.02,
+        "itm_score": 0.0
+      }
+    ]
+  },
+  "query_3": {
+    "query": "A woman in athletic wear jogging in an urban park",
+    "results": [
+      {
+        "rank": 1,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\deab9c33ce187b69cff3e1b226ddd8ac.jpg",
+        "filename": "deab9c33ce187b69cff3e1b226ddd8ac.jpg",
+        "recall_score": 0.0217,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 2,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\78c76bd3d70e760b4b59fde91b1cc03f.jpg",
+        "filename": "78c76bd3d70e760b4b59fde91b1cc03f.jpg",
+        "recall_score": 0.0306,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 3,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\14025b915e71064e49244d221f25eec4.jpg",
+        "filename": "14025b915e71064e49244d221f25eec4.jpg",
+        "recall_score": 0.0265,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 4,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\4f69a8181ed358fdb41af0a36badc17b.jpg",
+        "filename": "4f69a8181ed358fdb41af0a36badc17b.jpg",
+        "recall_score": 0.0242,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 5,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\ba8652e2b71e0be6567767d256fa600e.jpg",
+        "filename": "ba8652e2b71e0be6567767d256fa600e.jpg",
+        "recall_score": 0.0249,
+        "itm_score": 0.0
+      }
+    ]
+  },
+  "query_4": {
+    "query": "A child wearing a yellow raincoat splashing in puddles",
+    "results": [
+      {
+        "rank": 1,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\f06777ee045a0762aad3a7ec3111b864.jpg",
+        "filename": "f06777ee045a0762aad3a7ec3111b864.jpg",
+        "recall_score": 0.0031,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 2,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\941fb0eae1c264c3b18aa7161929a4d8.jpg",
+        "filename": "941fb0eae1c264c3b18aa7161929a4d8.jpg",
+        "recall_score": 0.0002,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 3,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\5443cbc1deabe8bc22b903eeacb209ce.jpg",
+        "filename": "5443cbc1deabe8bc22b903eeacb209ce.jpg",
+        "recall_score": 0.0046,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 4,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\39bca2df1d1c90524c5d3ac209b6b32f.jpg",
+        "filename": "39bca2df1d1c90524c5d3ac209b6b32f.jpg",
+        "recall_score": 0.0045,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 5,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\7064070549ca197a6bbf5be963dd3550.jpg",
+        "filename": "7064070549ca197a6bbf5be963dd3550.jpg",
+        "recall_score": 0.0018,
+        "itm_score": 0.0
+      }
+    ]
+  },
+  "query_5": {
+    "query": "A couple dressed in matching white outfits on a beach at sunset",
+    "results": [
+      {
+        "rank": 1,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\941fb0eae1c264c3b18aa7161929a4d8.jpg",
+        "filename": "941fb0eae1c264c3b18aa7161929a4d8.jpg",
+        "recall_score": 0.0183,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 2,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\df079613f0d10e3e2778b0dba7809686.jpg",
+        "filename": "df079613f0d10e3e2778b0dba7809686.jpg",
+        "recall_score": 0.0186,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 3,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\2c0c4094e2c3988fd3be0146f2c2488f.jpg",
+        "filename": "2c0c4094e2c3988fd3be0146f2c2488f.jpg",
+        "recall_score": 0.0227,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 4,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\5441093dfe37087e7466ac987706de9b.jpg",
+        "filename": "5441093dfe37087e7466ac987706de9b.jpg",
+        "recall_score": 0.0315,
+        "itm_score": 0.0
+      },
+      {
+        "rank": 5,
+        "path": "C:\\Users\\Lenovo\\Desktop\\fashion_&_context_retrival\\test\\deab9c33ce187b69cff3e1b226ddd8ac.jpg",
+        "filename": "deab9c33ce187b69cff3e1b226ddd8ac.jpg",
+        "recall_score": 0.024,
+        "itm_score": 0.0
+      }
+    ]
+  }
+}

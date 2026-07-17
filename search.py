@@ -23,7 +23,7 @@ def print_results(results: list[dict], query: str):
             f"Recall: {r['recall_score']:.4f}  "
             f"File: {r['filename']}"
         )
-    print(f"{'─' * 60}\n")
+    print(f"{'-' * 60}\n")
 
 
 def main():

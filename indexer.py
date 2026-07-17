@@ -72,6 +72,8 @@ def extract_embeddings(
         inputs = {k: v.to(device) for k, v in inputs.items()}
 
         outputs = model.get_image_features(**inputs)          # (B, D)
+        if not isinstance(outputs, torch.Tensor):
+            outputs = outputs.pooler_output
         embeddings = outputs / outputs.norm(dim=-1, keepdim=True)  # L2 norm
         all_embeddings.append(embeddings.cpu())
 
